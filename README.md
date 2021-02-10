@@ -23,6 +23,7 @@
 - AWS-EC2 (ubuntu)
 - Nginx
 - Letsencrypt
+- domain => gabia
 
 
 현재는 서비스 종료 상태입니다.
